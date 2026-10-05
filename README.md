@@ -22,4 +22,3 @@ Initial year: 2026
 New vehicle with year 2027:
 Initial year: 2026
 
-##Console Output
